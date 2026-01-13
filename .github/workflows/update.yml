@@ -1,36 +1,83 @@
 name: Update Movie Data
 
+
+
 on:
+
   schedule:
-    - cron: '0 */2 * * *'
+
+    - cron: '0 */6 * * *' 
+
   workflow_dispatch: 
 
+
+
 jobs:
+
   build:
+
     runs-on: ubuntu-latest
+
     steps:
+
       - name: Checkout Repo
+
         uses: actions/checkout@v3
 
+
+
       - name: Set up Python
-        uses: actions/setup-python@v4 
+
+        uses: actions/checkout@v3
+
         with:
+
           python-version: '3.9'
 
+
+
       - name: Install Dependencies
+
         run: |
+
           pip install cloudscraper beautifulsoup4
 
+
+
       - name: Run Scraper
+
         run: python app.py
 
+
+
       - name: Commit and Push
+
         run: |
+
           git config --global user.name "github-actions[bot]"
+
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          
+
+          # Shobgulo output file add kora
+
           git add output*.json
+
+          
+
+          # Jodi kono change na thake tobe commit skip korbe
+
           git commit -m "Auto Update: $(date)" || exit 0
+
+          
+
+          # Push korar age remote changes gulo niye asha (Conflict avoid korbe)
+
           git pull --rebase origin main
-           
+
+          
+
           # Final Push
+
           git push origin main
