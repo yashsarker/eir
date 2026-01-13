@@ -2,7 +2,7 @@ name: Update Movie Data
 
 on:
   schedule:
-    - cron: '0 */6 * * *' 
+    - cron: '0 */2 * * *'
   workflow_dispatch: 
 
 jobs:
@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/checkout@v3
+        uses: actions/setup-python@v4 
         with:
           python-version: '3.9'
 
@@ -28,15 +28,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Shobgulo output file add kora
           git add output*.json
-          
-          # Jodi kono change na thake tobe commit skip korbe
           git commit -m "Auto Update: $(date)" || exit 0
-          
-          # Push korar age remote changes gulo niye asha (Conflict avoid korbe)
           git pull --rebase origin main
-          
+           
           # Final Push
           git push origin main
