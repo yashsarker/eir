@@ -1,4 +1,4 @@
-import cloudscraper
+import requests
 from bs4 import BeautifulSoup
 import re
 import json
@@ -20,6 +20,7 @@ headers = {
     "cache-control": "max-age=0",
     "if-modified-since": "Tue, 24 Mar 2026 05:00:54 GMT",
     "priority": "u=0, i",
+    "cookie": "cf_clearance=.Cwg24HrFQ4cMeb6e_2oVGfFg1kkcDjnhJTQCprhojI-1774293909-1.2.1.1-MpKrP7WrQBLzOaLkp36lRzIhpyq6nL5d4O4pFZadtGdxAXq_I27WS2rEJv4TseMJwvFwt7FjuQQENNa_A3bMXUz_aSwEkeyTfSXaCeSMP0dDQFliTy1e2EbsOTpHZ3vgkE4tGOlbf.I2NzweqRXKxDld7i1jl4NEVBfGxelQRCGAzN_I59kn3FT8yHLIdj0Vow2pM28UB_3XWxVHkVQ_JNJSyLrlXgi5GXYX7seoqPk; _ga=GA1.1.1139795519.1774293911; domain-alert=1; fpestid=iOECTy_JebGLHfNlnFFQLV5JsaqiaLXnlOzx2gXTk-YUX0BKGLe0ZJvN0c00m2BCqeuoJg; _ga_7BWGJ9MXSS=GS2.1.s1774335963$o2$g0$t1774335963$j60$l0$h0",
     "sec-ch-ua": '"Chromium";v="146", "Not-A.Brand";v="24", "Google Chrome";v="146"',
     "sec-ch-ua-arch": '"x86"',
     "sec-ch-ua-bitness": '"64"',
@@ -59,9 +60,9 @@ def process_movies():
         print("Error: No input files found (e.g., input.json, input1.json)!")
         return
 
-    scraper = cloudscraper.create_scraper()
-    scraper.headers.update(headers)
-    scraper.cookies.update(cookies)
+    session = requests.Session()
+    session.headers.update(headers)
+    session.cookies.update(cookies)
     
     iframe_cache = load_cache()
 
@@ -87,7 +88,7 @@ def process_movies():
             iframe_src = None
 
             try:
-                resp = scraper.get(watch_url, timeout=20)
+                resp = session.get(watch_url, timeout=20)
                 if resp.status_code == 200:
                     soup = BeautifulSoup(resp.text, 'html.parser')
                     iframe = soup.find('iframe')
@@ -109,7 +110,10 @@ def process_movies():
 
             if iframe_src:
                 try:
-                    iframe_res = scraper.get(iframe_src, headers={'Referer': watch_url}, timeout=20)
+                    iframe_headers = headers.copy()
+                    iframe_headers['Referer'] = watch_url
+                    
+                    iframe_res = session.get(iframe_src, headers=iframe_headers, timeout=20)
                     m3u8_match = re.search(r'file\s*:\s*"(https?://[^"]+\.m3u8[^"]*)"', iframe_res.text)
                     
                     if m3u8_match:
