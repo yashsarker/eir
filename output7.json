@@ -1,10 +1,10 @@
 {
   "hero": [
     {
-      "id": "Panchlait (2017)",
-      "title": "Panchlait (2017)",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYWNiMTE2NTktODZmYy00OWQzLWJlOGMtYzJiZGJiOTRhMTYwXkEyXkFqcGdeQXVyNzgxMDAwMDc@._V1_FMjpg_UY853_.jp",
-      "stream_url": "https://arima.ydc1wes.me/hls2/02/00006/le4inufadpzi_,l,h,.urlset/master.m3u8?t=0eL-MLEaLZFo9-dWhUA_o_TboxkKApt4ZcjfA89LgF8&s=1780520875&e=21600&f=34810&i=0.0&sp=0",
+      "id": "Miya Biwi Aur Murder (2022) Season 1 (MX Player)",
+      "title": "Miya Biwi Aur Murder (2022) Season 1 (MX Player)",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZTYzYWEwZTAtZWE2OC00NGMwLTkwYTgtMDE5MWFiMTIxMDkxXkEyXkFqcGdeQXVyMTE2NDE2Njcy._V1_FMjpg_UY853_.jpg",
+      "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00003/gvzqv8m3xkl5_,l,h,.urlset/master.m3u8?t=nm4H_62LUnRh0KUTIOlEaA3emdL04p5TDdL-kSsD7Gc&s=1780528692&e=21600&f=17562&i=0.0&sp=0",
       "headers": {
         "Referer": "https://speedostream1.com/"
       }
@@ -15,73 +15,10 @@
       "name": "Latest from input7.json",
       "items": [
         {
-          "id": "Panchlait (2017)",
-          "title": "Panchlait (2017)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BYWNiMTE2NTktODZmYy00OWQzLWJlOGMtYzJiZGJiOTRhMTYwXkEyXkFqcGdeQXVyNzgxMDAwMDc@._V1_FMjpg_UY853_.jp",
-          "stream_url": "https://arima.ydc1wes.me/hls2/02/00006/le4inufadpzi_,l,h,.urlset/master.m3u8?t=0eL-MLEaLZFo9-dWhUA_o_TboxkKApt4ZcjfA89LgF8&s=1780520875&e=21600&f=34810&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Aashram (2025) Season 3 Part 2",
-          "title": "Aashram (2025) Season 3 Part 2",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZmMwMmIyZDQtODJlMy00YmRkLWFiNDYtYzBlOTZmNWJjZjIxXkEyXkFqcGc@._V1_FMjpg_UY766_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00007/,phgy9r2yuwwf_l,phgy9r2yuwwf_h,lang/eng/phgy9r2yuwwf_eng,.urlset/master.m3u8?t=k0JD6s2alayt_V5rxa07W9MOD8M1R6fiW5JZL4tXJZc&s=1780520877&e=21600&f=36934&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Agra Affair (2025) Season 1 (Amazon Prime)",
-          "title": "Agra Affair (2025) Season 1 (Amazon Prime)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZDEyNWFjMDctY2ExZi00OTA4LTljMjAtMjFmYTQ1ZWJmZjdmXkEyXkFqcGc@._V1_FMjpg_UY720_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00007/uavgdjt6h351_,l,h,.urlset/master.m3u8?t=wFxRUXE9RVsR36eEME-8TqAdRI4StTmD6vTkaNqrwRI&s=1780520878&e=21600&f=36131&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Chidiya Udd (2025) Season 1 (Amazon Prime)",
-          "title": "Chidiya Udd (2025) Season 1 (Amazon Prime)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzM5NWVjMGUtODYzZi00MDc0LWE4NGUtMWM2ZWQwZGY2ODBhXkEyXkFqcGc@._V1_FMjpg_UY853_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00007/kb2p2ev0xd3j_,l,h,.urlset/master.m3u8?t=x_rX6eOYu1Z7wJ-uawXIhEfMRRli3A0I8sCjoiuXIdI&s=1780520879&e=21600&f=36214&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Pati Patni Aur Woh (2020) Season 1",
-          "title": "Pati Patni Aur Woh (2020) Season 1",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZmZjMjBiZTUtNWZkMC00YTM4LThjZDctNzFlNTE0YzdjOTExXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UY766_.jpg",
-          "stream_url": "https://abella.ydc1wes.me/hls2/02/00007/q7fz7e9upne1_l/master.m3u8?t=z661FZ33jMxbXoStZnHt2JTWsMWFwU5E5xTJeaHoPNE&s=1780520880&e=21600&f=35346&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Roohaniyat (2022) Season 1 (MX Player Originals)",
-          "title": "Roohaniyat (2022) Season 1 (MX Player Originals)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNWUyZjI4MWYtYjQ1OS00YTVlLWE1MTctOTlkYTg0NmZjMGE3XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX580_.jpg",
-          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00007/jvmi34j7rz6t_,l,h,.urlset/master.m3u8?t=7X2TFbuv4CwS9B51uzUWeQPCDvsLKgFvkHktU49iN_M&s=1780520883&e=21600&f=35122&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
           "id": "Miya Biwi Aur Murder (2022) Season 1 (MX Player)",
           "title": "Miya Biwi Aur Murder (2022) Season 1 (MX Player)",
           "poster": "https://m.media-amazon.com/images/M/MV5BZTYzYWEwZTAtZWE2OC00NGMwLTkwYTgtMDE5MWFiMTIxMDkxXkEyXkFqcGdeQXVyMTE2NDE2Njcy._V1_FMjpg_UY853_.jpg",
-          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00003/gvzqv8m3xkl5_,l,h,.urlset/master.m3u8?t=v9dchTE12LyJvhJ2RvdGZE48TJwx4auKO0Gp5pXs7q8&s=1780520883&e=21600&f=17562&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Fisaddi (2024) Season 1 (Amazon Prime)",
-          "title": "Fisaddi (2024) Season 1 (Amazon Prime)",
-          "poster": "https://imego.lat/ib/crRM4PfNPq.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00006/hf6vo0y2fe62_,l,h,.urlset/master.m3u8?t=AA0hEG95O0_KkVcdu4AKrG38c9m09o3tV4pAFc2k6WE&s=1780520884&e=21600&f=34887&i=0.0&sp=0",
+          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00003/gvzqv8m3xkl5_,l,h,.urlset/master.m3u8?t=nm4H_62LUnRh0KUTIOlEaA3emdL04p5TDdL-kSsD7Gc&s=1780528692&e=21600&f=17562&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -90,25 +27,7 @@
           "id": "Ek Thi Begum (2020) Season 1 (MX Originals)",
           "title": "Ek Thi Begum (2020) Season 1 (MX Originals)",
           "poster": "https://m.media-amazon.com/images/M/MV5BNDk5YWZhOGMtOWI5ZC00ZDc3LTg3OWQtZTEyZDY0YTJlN2EwXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_QL50_SY1000_CR0,0,626,1000_UY766_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00006/jldtpzn9j5ey_,l,h,.urlset/master.m3u8?t=s8CbG8uQqE1y7PskRSIKLgKbqPx6qkK-y6VdtkxJ5Fo&s=1780520890&e=21600&f=34829&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Ek Thi Begum (2021) Season 2 (MX Originals)",
-          "title": "Ek Thi Begum (2021) Season 2 (MX Originals)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BMjRkOGMxMjctYjZlYi00ZWRmLWJlZGEtNjc2ZmQ5MzMzNDE2XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UY766_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00006/cfsekpmok1ec_,l,h,.urlset/master.m3u8?t=rkeiMTIzUctMXfu5Jb3ZHXzrauq3bE_W0s21KKxByx0&s=1780520890&e=21600&f=34831&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Shiksha Mandal (2022) Season 1 (MX Player)",
-          "title": "Shiksha Mandal (2022) Season 1 (MX Player)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BYzAwM2IxNTItZDViNy00YjM5LThmM2MtMDQxOGEzN2UwYTU1XkEyXkFqcGdeQXVyMTE2NDE2Njcy._V1_FMjpg_UY576_.jpg",
-          "stream_url": "https://jnaove.ydc1wes.me/hls2/02/00003/un6aycal7z9e_l/master.m3u8?t=DZkavrYKtyHeuEUgJ9wKyhcZeKLqjBWPVDY8QUMP4sk&s=1780520891&e=21600&f=19461&i=0.0&sp=0",
+          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00006/jldtpzn9j5ey_,l,h,.urlset/master.m3u8?t=DVVhDPxvIhOu6lN0qVZyrOohfeSKdmg9dD0L716aArk&s=1780528693&e=21600&f=34829&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -117,106 +36,7 @@
           "id": "Raktanchal: Ek Baar Phir (2024)",
           "title": "Raktanchal: Ek Baar Phir (2024)",
           "poster": "https://m.media-amazon.com/images/M/MV5BZTZhMTU0NjgtYjdjMC00MmYxLTkwYjYtNmIyNGQ4MzY4ZDE0XkEyXkFqcGc@._V1_FMjpg_UY692_.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/01/00006/k8jdegp04zoq_,l,h,.urlset/master.m3u8?t=46QtYUbyN-5GULQT-ZXP-LTAbLlhJubhqh8ny6K3JSk&s=1780520892&e=21600&f=34523&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Prakash Electronic (2017)",
-          "title": "Prakash Electronic (2017)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNjU1ODQ5NDYtOWM4ZC00Y2Y5LWExOWUtYzhjMDk0MTQ4OGE2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDM4NjQxMjM@._V1_FMjpg_UX886_.jpg",
-          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00002/i5v0s9xrj824_,l,o,.urlset/master.m3u8?t=74QCiK8HIpuuerv2h0hzY_pCmR6KcgFpdL4bf8MlS3s&s=1780520893&e=21600&f=10552&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Dhaunsiya (2021)",
-          "title": "Dhaunsiya (2021)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNjM5ZGJmY2MtNjYxNy00ZTI3LTkxYmEtNDM4Y2I1MzEyNGE3XkEyXkFqcGdeQXVyMTUyMTQxNzkw._V1_FMjpg_UY571_.jpg",
-          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00005/7oknz70uzpax_,l,h,.urlset/master.m3u8?t=2YUODRr6x583SaHupboI6Z9gQYyLixXbdVNnJBUw5c4&s=1780520893&e=21600&f=25640&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Bhabhi Ji Gadbad Hai (2023) Season 1 (Mx Player Originals)",
-          "title": "Bhabhi Ji Gadbad Hai (2023) Season 1 (Mx Player Originals)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNGRlNzNkYmUtOTQ0Yi00NWJkLWJlYzktZTQyYWVjNzMwNzEwXkEyXkFqcGdeQXVyMTY5NTc5MTY2._V1_FMjpg_UY720_.jpg",
-          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00005/0ciga5fb0vxi_,l,h,.urlset/master.m3u8?t=DzQUVc9xUGY3En1w0OgSJEnIZnPwvVVTGS2qu6JuDiQ&s=1780520899&e=21600&f=26913&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "NCR: Chapter One (2021)",
-          "title": "NCR: Chapter One (2021)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNGE0NDIyYWYtODliZi00NDY5LWEzMWEtNTk5OWRkMDVkMzAwXkEyXkFqcGdeQXVyNzM2NzUxODA@._V1_FMjpg_UY886_.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/04/00004/rke87jdflzlc_,l,h,.urlset/master.m3u8?t=qXtbs5rbmNzRg1RaxEPPALhXoIIBCeRhSkbYB9ClXEQ&s=1780520901&e=21600&f=23925&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Benakaab (2023) Season 1 (Mx Player Originals)",
-          "title": "Benakaab (2023) Season 1 (Mx Player Originals)",
-          "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yplGOH8oJrcjRzDJlsP1VG8uxvJ.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/02/00004/cld230eoksqu_,l,h,.urlset/master.m3u8?t=snNH4FcALIcX_zukZawOQHfRkY62p_hSuybJ-VYMadE&s=1780520902&e=21600&f=23645&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Bhaukaal (2022) Season 1 (Mx Player Originals)",
-          "title": "Bhaukaal (2022) Season 1 (Mx Player Originals)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BN2YyMWE1MWItYTljYy00Yzc2LTg5YzYtNjZhZjAzNjljNzA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UY1090_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00004/uvgtqgj93z83_,l,h,.urlset/master.m3u8?t=n1N14-IwTYFD581bPNf0bcUEwLMrqQtaXfyxapLr8Uw&s=1780520902&e=21600&f=23137&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Bhaukaal (2022) Season 2 (Mx Player Originals)",
-          "title": "Bhaukaal (2022) Season 2 (Mx Player Originals)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BN2YyMWE1MWItYTljYy00Yzc2LTg5YzYtNjZhZjAzNjljNzA2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UY720_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00004/sa5vstze986d_,l,h,.urlset/master.m3u8?t=686MQHmCy7TIHgIReSnBGzqm_MiD3vLMdt2oDYG4B3E&s=1780520911&e=21600&f=23136&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Virodh (2023) Season 1 (MX Player)",
-          "title": "Virodh (2023) Season 1 (MX Player)",
-          "poster": "https://qqcdnpictest.mxplay.com/pic/230165e127083a4087ddbbe195e2c170/en/2x3/320x480/test_pic1679935772929_badged_1679939899959.webp",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/03/00004/vqlhx58f8c27_,l,h,.urlset/master.m3u8?t=CmWOh2uVOZcXGRecwU3wDXHNngWzKQ_mV75Pc46Agsc&s=1780520911&e=21600&f=22778&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Mastram (2020) Season 1 MX Player Originals",
-          "title": "Mastram (2020) Season 1 MX Player Originals",
-          "poster": "https://imego.lat/ib/bWodE4D7ZG.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00005/kkppesrn6ojg_,l,h,.urlset/master.m3u8?t=CGAZJ0whGvw8b15WahfMHrGZzwsXeqH0VZwkUvtAIGw&s=1780520915&e=21600&f=28560&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Tu Zakhm Hai (2023) Season 2 (MX Player)",
-          "title": "Tu Zakhm Hai (2023) Season 2 (MX Player)",
-          "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tHVie6zpHkQK87JenlWy10D29rx.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/04/00004/2pxhrdqbdo83_,l,h,.urlset/master.m3u8?t=nx8GX2ZqfRkdGkHH-zF1QWG5FW11LgaGUarjTTsfSdQ&s=1780520915&e=21600&f=22620&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Dharavi Bank (2022) Season 1 (MX Player)",
-          "title": "Dharavi Bank (2022) Season 1 (MX Player)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BYTM2YjQ5ZGEtZDEzYy00MDJjLWIxZjMtMTI1NWRmY2QxZTgxXkEyXkFqcGdeQXVyMTE2NDE2Njcy._V1_FMjpg_UY576_.jpg",
-          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00003/b8g2bz7qxrhj_,l,h,.urlset/master.m3u8?t=wRyoEDYklHMuOtbh2wKmzNLenYFgb5EvaOsjM-Om6dg&s=1780520924&e=21600&f=19858&i=0.0&sp=0",
+          "stream_url": "https://cubbi.ydc1wes.me/hls2/01/00006/k8jdegp04zoq_,l,h,.urlset/master.m3u8?t=6C6oFKBKva9l7-Znq_Uwu8GOjAByBE6cckWPzOHbzyk&s=1780528706&e=21600&f=34523&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -225,43 +45,7 @@
           "id": "IMMATURE (2022) Season 2 MX Player Originals",
           "title": "IMMATURE (2022) Season 2 MX Player Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BNzY5YWQ1YzMtMTBhNS00YWE2LWI3YTktNzI4MWE5M2FlYTJkXkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_FMjpg_UY576_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00003/f5acnkl3ks8r_,l,h,.urlset/master.m3u8?t=zuN4m3rCWFlhIqfZBMPBTX7vFaI39jX3cNETEB275EQ&s=1780520925&e=21600&f=18338&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Delhi Khabbar (2022) Season 1 MX Player Originals",
-          "title": "Delhi Khabbar (2022) Season 1 MX Player Originals",
-          "poster": "https://imego.lat/ib/guXLDXjXHC.jpg",
-          "stream_url": "https://arima.ydc1wes.me/hls2/02/00003/b9oa7xkp6ria_,l,o,.urlset/master.m3u8?t=mmhucsOvpUs8HXPjqzO9xoSrGQRUL4MI3Dh8kx3w6Aw&s=1780520926&e=21600&f=16893&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Ramyug (2021) Season 1 MX Originals",
-          "title": "Ramyug (2021) Season 1 MX Originals",
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjk1NTQ0MDEtZGEzNi00MjJjLWE1MmMtMmVkNTVkOTFhNTBkXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX480_.jpg",
-          "stream_url": "https://rasoutin.ydc1wes.me/hls2/01/00006/uif45oxdh0px_,l,h,.urlset/master.m3u8?t=ydV5Z804PriOiakU5elumVk_ICqbUYNO_Hy4_hjo010&s=1780520939&e=21600&f=31479&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Aashram (2022) Season 3 MX Player",
-          "title": "Aashram (2022) Season 3 MX Player",
-          "poster": "https://m.media-amazon.com/images/M/MV5BMmQ4ZTY3NTctYjU5YS00NjI4LThjOTQtMjM0ZDFmZjQ5YTkzXkEyXkFqcGdeQXVyMTE2NDE2Njcy._V1_FMjpg_UY576_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00004/,myjfip98dy1u_l,myjfip98dy1u_h,lang/eng/myjfip98dy1u_eng,.urlset/master.m3u8?t=IMe8w4T_qiYD79VaCaglOmaU0khZKz1xMlsf5Fh2Nfg&s=1780520944&e=21600&f=24038&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Raktanchal (2022) Season 2 MX Player Originals",
-          "title": "Raktanchal (2022) Season 2 MX Player Originals",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNTk4MTA5ZTQtYmRmMi00OTY4LWE2ZmItOTBhYTNkNjk3ZTVkXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UY766_.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/03/00006/e4tx7c3b99le_,l,h,.urlset/master.m3u8?t=Xf9gQPoyR8m0j3DwQ6303-U_r6jx22oKPUbNscIfWdw&s=1780520956&e=21600&f=34059&i=0.0&sp=0",
+          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00003/f5acnkl3ks8r_,l,h,.urlset/master.m3u8?t=EHR3YuuOAd__CuOoW5L48Ar91r96qSfENJcvvoyyHM8&s=1780528712&e=21600&f=18338&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -270,7 +54,7 @@
           "id": "Campus Diaries (2022) Season 1 MX Player Original",
           "title": "Campus Diaries (2022) Season 1 MX Player Original",
           "poster": "https://m.media-amazon.com/images/M/MV5BZDYyNDljYzEtMGQ2MC00MGFlLWFmOTMtZmY5NGMzNGI4Y2IwXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_FMjpg_UY720_.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/04/00003/mamq461dsc1z_,l,h,.urlset/master.m3u8?t=EfMGOMtLd7fZmkJ3JZJ3IAbl8oxPfWI11u-EVTqCCDc&s=1780520961&e=21600&f=18683&i=0.0&sp=0",
+          "stream_url": "https://cubbi.ydc1wes.me/hls2/04/00003/mamq461dsc1z_,l,h,.urlset/master.m3u8?t=JjaU1Dgl3EDxploOSIQGc36eam3lPnoE4QvfJvhmPIA&s=1780528717&e=21600&f=18683&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -279,25 +63,7 @@
           "id": "Missing Chapter (2021) Season 1 MX Player Original",
           "title": "Missing Chapter (2021) Season 1 MX Player Original",
           "poster": "https://m.media-amazon.com/images/M/MV5BMWFjZGVlN2ItMTYzMi00MDYyLTgzZDgtZjFlNWZkOTg0ZmM3XkEyXkFqcGdeQXVyNzczOTE4Nzk@._V1_FMjpg_UX320_.jpg",
-          "stream_url": "https://ritchie.ydc1wes.me/hls2/02/00002/jlonz5mv7i89_,l,o,.urlset/master.m3u8?t=UB0OdbZXzYvsnBjZQZHxRHahp7PZ8-dMazbQNc5VsHI&s=1780520962&e=21600&f=14604&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Matsya Kaand (2021) Season 1 MX Player Original",
-          "title": "Matsya Kaand (2021) Season 1 MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTYxODBmNDMtMjhhYy00ODNhLTlkNDAtZjAwYTlmODEwOTNhXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg ",
-          "stream_url": "https://dawn.ydc1wes.me/hls2/01/00002/nzlwbgeozvnl_,l,o,.urlset/master.m3u8?t=DCNCnKzxD_vL8lIx15BaMTbWA9rtSl9fgkJjptzzBYo&s=1780520972&e=21600&f=13769&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Girgit (2021) Season 1 MX Player Original",
-          "title": "Girgit (2021) Season 1 MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjE5M2IyNTgtMmNhYS00MTI4LTg2YWItNTg3NjcyYmRmODRhXkEyXkFqcGdeQXVyODI2MzM0MTM@._V1_FMjpg_UX486_.jpg",
-          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00002/a7ssti74b8sv_,l,o,.urlset/master.m3u8?t=jtlM4oQl8n_OOr4Wh4aHKrRXpx8FvLiEdBern5vuqGM&s=1780520975&e=21600&f=14056&i=0.0&sp=0",
+          "stream_url": "https://ritchie.ydc1wes.me/hls2/02/00002/jlonz5mv7i89_,l,o,.urlset/master.m3u8?t=eOwwUSWOslV1jgL4Ik0XUa5FJ8Oyu5VKVxR1N6LQveg&s=1780528727&e=21600&f=14604&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -306,169 +72,7 @@
           "id": "Boyfriends and Girlfriends (2021) Season 1 MX Player Original",
           "title": "Boyfriends and Girlfriends (2021) Season 1 MX Player Original",
           "poster": "https://m.media-amazon.com/images/M/MV5BMmFhMzY4ZTMtNjYwMC00MGY1LTk0YjEtZmI3ZjY3MTdhZTFjXkEyXkFqcGdeQXVyOTQ0MDUwOTM@._V1_FMjpg_UX728_.jpg",
-          "stream_url": "https://arima.ydc1wes.me/hls2/01/00002/titm0u76mvx2_,l,o,.urlset/master.m3u8?t=uWhtnHq9iqs_W4xbXduCSaOuVy88JAipfWJBEffmaPA&s=1780520978&e=21600&f=12673&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Cartel (2021) Season 1 (Altbalaji)",
-          "title": "Cartel (2021) Season 1 (Altbalaji)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BM2ZjZDBiYTMtZDE4Yy00NTVkLWEzZjgtNzZjOWIyZDVhZTdkXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1080_.jpg",
-          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00002/otwlfm5na0ab_,l,h,.urlset/master.m3u8?t=CtmJV0IxBEB8wYB-4GfYxNmzTMp3h38RRFF19Aj2-3E&s=1780520985&e=21600&f=15780&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "P.O.W. Bandi Yuddh Ke (2021) Season 1 MX Originals",
-          "title": "P.O.W. Bandi Yuddh Ke (2021) Season 1 MX Originals",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjA1NmZlODgtYTViOC00YWQ5LWJkM2EtNGM1MzIyM2Y3YmZmXkEyXkFqcGdeQXVyNzM4MjU3NzY@._V1_.jpg",
-          "stream_url": "https://abella.ydc1wes.me/hls2/01/00002/4r2kftcroakc_l/master.m3u8?t=sLIaUWIpK9XVENREBx6018MUP59w6OgAKjpSMxXefL4&s=1780520988&e=21600&f=11907&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Chhatrasal (2021) Season 1 MX Originals",
-          "title": "Chhatrasal (2021) Season 1 MX Originals",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjQ0MTNjOWYtOGQ1OC00ZTllLWFlYzctYTI5YmEyYWQ2NDExXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://abella.ydc1wes.me/hls2/01/00002/dxbysdpinox3_l/master.m3u8?t=I5KRLI-9NCgN5tVme3tG6pGv2IwWt3uF1rxHs6THjKQ&s=1780520995&e=21600&f=11577&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "The Cobweb (2021) MX Player Original",
-          "title": "The Cobweb (2021) MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BMGMxNDZiYmEtYWMxZC00ZjIzLWJkNjktNDAyYzFkM2VhYWMxXkEyXkFqcGdeQXVyOTE2NzMwNTU@._V1_FMjpg_UY600_.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/02/00002/b9jjganqcbyn_,l,o,.urlset/master.m3u8?t=Jfg-qCnKmIT6JUFlrdekGzDKBxdWC38bD5lVLObtFD4&s=1780521000&e=21600&f=11564&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Hidden Taste of Gujarat (2021) MX Player Original",
-          "title": "Hidden Taste of Gujarat (2021) MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNTA1MDExN2MtY2NiZi00ZTFhLWIyOWMtYzhmNzE5YjE0MDFjXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX900_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00002/cmqwb3kquc2q_l/master.m3u8?t=-fE8CTnU5HEcCQZAFH2KYES_U3yORZU8saLOt9GkOxc&s=1780521001&e=21600&f=11180&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Samantar (2021) Season 2 Hindi MX Player",
-          "title": "Samantar (2021) Season 2 Hindi MX Player",
-          "poster": "https://m.media-amazon.com/images/M/MV5BYjVjOThlNTAtMzEwOC00YjE3LTk4M2UtNjkwNjc2ZjIyYzg5XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://jnaove.ydc1wes.me/hls2/02/00004/vt0yzccbtku7_,l,h,.urlset/master.m3u8?t=ch7TZ8inHVWPu6Nya-TKkhIxXDVr4JQGY-a4Rd03Psw&s=1780521007&e=21600&f=22090&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Zindagi Unlimited (2021) MX Player Original",
-          "title": "Zindagi Unlimited (2021) MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BMDdiNjRjNmUtZmFjMy00MDZkLThlYzctYmJmOWE3YjJiMmU3XkEyXkFqcGdeQXVyMTMwOTk2MDIw._V1_FMjpg_UX998_.jpg",
-          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00002/6c1rykaixuvq_,l,o,.urlset/master.m3u8?t=wzXWhlnEjlTL9zidHfRhaudemnkGd-8FWI36qRaKBi4&s=1780521007&e=21600&f=10694&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Indori Ishq (2021) Season 1 MX Player Original",
-          "title": "Indori Ishq (2021) Season 1 MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNjgyNzAyMTktMzdlNy00YTA4LTk4ZjktYzQ0ODEzN2ZkODc3XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://arabic.ydc1wes.me/hls2/01/00003/0hax4pml5kim_,l,h,.urlset/master.m3u8?t=G31rxmBTnoFYJegkFiDFkC-hXzQVyYQ35AC826b_4Kk&s=1780521009&e=21600&f=18719&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Singapore Vignettes (2021)",
-          "title": "Singapore Vignettes (2021)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BOTgwNmY4NGMtYWM5My00NjM3LTgzZGQtZmZmM2NlZGE1MTNjXkEyXkFqcGdeQXVyNDQ1ODIzNzY@._V1_FMjpg_UY853_.jpg ",
-          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00001/ev4mkv91mjug_,l,o,.urlset/master.m3u8?t=v2jR2Q4437fisUYzcMsDonLkpQVtnyMhZrhzNwpOx2E&s=1780521010&e=21600&f=9514&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Ek Thi Nurse (2020) MX Player Original",
-          "title": "Ek Thi Nurse (2020) MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BMGFmZjVhYmQtMzZlMi00M2ZkLWIxZjItOWE4YTllMzNiNmNlXkEyXkFqcGdeQXVyMTI1NjI5MjMz._V1_FMjpg_UY1024_.jpg",
-          "stream_url": "https://arabic.ydc1wes.me/hls2/01/00001/qvtyhij4js2k_,l,o,.urlset/master.m3u8?t=wuA3VcIvuF2tT-rm1hSD-F-Ej8fhHCckJLhuLSxJs5Y&s=1780521015&e=21600&f=9518&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "K K Hundred (2021)",
-          "title": "K K Hundred (2021)",
-          "poster": "https://m.media-amazon.com/images/M/MV5BODEzM2JiNGMtYjIxNS00NGM0LTg3MzktMjJkYjJkODU4NTc4XkEyXkFqcGdeQXVyMTQ4OTk2NTY2._V1_FMjpg_UY640_.jpg",
-          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00005/a1b631dxu4ha_,l,h,.urlset/master.m3u8?t=e43GYeiflSvPGweFpWBWtJwjL3JF1jo5VQOcxgafNzE&s=1780521022&e=21600&f=29834&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Shukla The Tiger (2021) Season 1 MX Player Original",
-          "title": "Shukla The Tiger (2021) Season 1 MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZWNlMDllNmEtZTI0Ni00MjY5LWJlOWQtNTBmYWQyMmQ5YTRkXkEyXkFqcGdeQXVyMTAwNDQxNTI4._V1_FMjpg_UY576_.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/03/00001/p5jebjpafv2m_,l,o,.urlset/master.m3u8?t=FmKN4Z3_DIavT_NFj7sc4ia8NNRWWUwzkH9PdTTwH0Y&s=1780521024&e=21600&f=8957&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Blackout (2021) Season 1 Hindi Dubbed MX Player Original",
-          "title": "Blackout (2021) Season 1 Hindi Dubbed MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjFjOTAwNDgtMzQxMC00YzA0LWIxYWItNTc0MmU4ZWQxMGFmXkEyXkFqcGdeQXVyODIxODExOA@@._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/01/00004/tdeu8m5crdsm_l/master.m3u8?t=s--gKeSDiIKX8cVTykx2ibVr5AX7tmDrWNZ4X8xuDMk&s=1780521025&e=21600&f=20553&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Hello Mini (2021) Season 3 MX Player Original",
-          "title": "Hello Mini (2021) Season 3 MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BNTFiOTkyNjktZGM1Zi00MDhhLThhYjAtODUwNDVhYzJjOTEwXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UY766_.jpg",
-          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00001/nj713u6elb7d_,l,o,.urlset/master.m3u8?t=yt_vDcnyWw90ZLjT7z7idaeSe6MOlIobgYk2S_JE_OY&s=1780521034&e=21600&f=17204&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Detective McLean (2015) Season 1 Hindi Dubbed MX Player Original",
-          "title": "Detective McLean (2015) Season 1 Hindi Dubbed MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BMTY0NzgwMDE5OV5BMl5BanBnXkFtZTgwMjM0NTU2NjE@._V1_FMjpg_UY977_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00004/1cicsglet6r3_l/master.m3u8?t=QUIiXDRQVujoM6jlGjPAxmk1pEhE6cUZgzbiQ2cFz6U&s=1780521042&e=21600&f=21939&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "SF8 (2021) Season 1 Hindi Dubbed MX Player Original",
-          "title": "SF8 (2021) Season 1 Hindi Dubbed MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjNiN2U2MGMtNDgxNi00OWVhLTliYzgtZGJlNTNiYzRmNzA0XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_FMjpg_UX1200_.jpg",
-          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00001/u3bls8a79p2j_,l,o,.urlset/master.m3u8?t=9nwMCHm40Aw2KkHFVr4bXppATcYO3OBhZWXl3Zxk2Y4&s=1780521048&e=21600&f=7040&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Koi Hai (2021) Season 1 MX Player Original",
-          "title": "Koi Hai (2021) Season 1 MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BODdkYTliMmEtYjJlMC00ZWJiLWJiNmEtN2M2ZmE1OGRjYWRhXkEyXkFqcGdeQXVyODY1OTU5NTc@._V1_FMjpg_UX233_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/r636f7by17tc_l/master.m3u8?t=mXRKSWMjRfmB3M7-tvJ2tTn_-WM5mPTTCzoxdUW7J1s&s=1780521060&e=21600&f=6689&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Ishas Diary (2021) Season 1 MX Player Original",
-          "title": "Ishas Diary (2021) Season 1 MX Player Original",
-          "poster": "https://m.media-amazon.com/images/M/MV5BZjdjYmQ2NzgtOWNkNC00YjU2LTg4YjAtNzRhNTFkZGUyNTQyXkEyXkFqcGdeQXVyODM0MjYxNTI@._V1_FMjpg_UY576_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00001/etrifemrau11_l/master.m3u8?t=zrEttnQWVZUiDZpfLTevb2IT44ygYf3gnNIwg66Fn4g&s=1780521062&e=21600&f=6473&i=0.0&sp=0",
+          "stream_url": "https://arima.ydc1wes.me/hls2/01/00002/titm0u76mvx2_,l,o,.urlset/master.m3u8?t=u-D--1-CSRRGzeL9QPfXzU8c4xGi9B3GmCfjCek0EQc&s=1780528728&e=21600&f=12673&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -477,7 +81,7 @@
           "id": "Hello Mini (2021) Season 2 MX Player Original",
           "title": "Hello Mini (2021) Season 2 MX Player Original",
           "poster": "https://m.media-amazon.com/images/M/MV5BOWMxNjhlYTktMmZjNi00MzIxLWE1MDUtZGU4Y2Y2ZGU0Zjg5XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UY766_.jpg",
-          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00001/qpent9rj9u83_,l,o,.urlset/master.m3u8?t=fHzsRCRyGJxUPvFLIxsCu6M4yPY8Jus16AtsvZuZSik&s=1780521064&e=21600&f=17203&i=0.0&sp=0",
+          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00001/qpent9rj9u83_,l,o,.urlset/master.m3u8?t=_047UiW9fLK-lbCqZCghVKBsXaWHJSGiEECHOADGH5Y&s=1780528746&e=21600&f=17203&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -486,7 +90,7 @@
           "id": "Pandeyji Zara Sambhalke (2021) Season 1 MX Originals",
           "title": "Pandeyji Zara Sambhalke (2021) Season 1 MX Originals",
           "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z1Tt46fz16m5AtPTZ7fdeGybUIh.jpg",
-          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00001/oh9fwl06h2dy_,l,o,.urlset/master.m3u8?t=rK-uPForf6y7zVYAVnxsSf0p2_PTUfwheeB1p5LMAOA&s=1780521064&e=21600&f=5841&i=0.0&sp=0",
+          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00001/oh9fwl06h2dy_,l,o,.urlset/master.m3u8?t=cVnuQ7rIp7EXMMMS-jdh6D9-JzdoZ75JZ6g4WsweP0M&s=1780528753&e=21600&f=5841&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -495,7 +99,7 @@
           "id": "Beta Settle Kab Hoega (2021) MX Originals",
           "title": "Beta Settle Kab Hoega (2021) MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BNDFhNDZlMTYtNGUyNy00MjQzLWJlNTUtYzE5NmZlYjJiYWU4XkEyXkFqcGdeQXVyMTI5NjUxODI0._V1_FMjpg_UY587_.jpg",
-          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00001/9wmkni0jf2si_,l,o,.urlset/master.m3u8?t=Y9zVYTWrHxcPZRRj9SVfMP1Bv8CzzOKZEI-xjDQgOLU&s=1780521067&e=21600&f=5795&i=0.0&sp=0",
+          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00001/9wmkni0jf2si_,l,o,.urlset/master.m3u8?t=ImZxtYfccj0zyeKilrgMQ4QTITzmqdAk6iN8sNR79Ms&s=1780528754&e=21600&f=5795&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -504,7 +108,7 @@
           "id": "K K Hundred (2021) MX Originals",
           "title": "K K Hundred (2021) MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BODEzM2JiNGMtYjIxNS00NGM0LTg3MzktMjJkYjJkODU4NTc4XkEyXkFqcGdeQXVyMTQ4OTk2NTY2._V1_FMjpg_UY640_.jpg",
-          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00005/a1b631dxu4ha_,l,h,.urlset/master.m3u8?t=R2wLVXMWpALANINXs2jMy6n-5nsnFIWsgkDZzLDYiCc&s=1780521068&e=21600&f=29834&i=0.0&sp=0",
+          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00005/a1b631dxu4ha_,l,h,.urlset/master.m3u8?t=3Qnxc9xax_x8IVZHRzWWoOg_8xT2DxUlRMsm2iLeWG4&s=1780528756&e=21600&f=29834&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -513,7 +117,7 @@
           "id": "Pati Patni aur Panga (2020) Season 1 MX Originals",
           "title": "Pati Patni aur Panga (2020) Season 1 MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BMDcxMzczZWUtNTljYi00ZDMxLTk4YzctMTEyZDdkZWE5NDllXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00000/l0rqwcxicg3m_,l,o,.urlset/master.m3u8?t=OSbL1CPBXpv8ju4ZF8StlqQyBOuHluXHovnDobw9a7s&s=1780521068&e=21600&f=4028&i=0.0&sp=0",
+          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00000/l0rqwcxicg3m_,l,o,.urlset/master.m3u8?t=D_wlfqIJZOJY8b1KznjksQXh_9MfKKjbnP-S2HkSRFQ&s=1780528760&e=21600&f=4028&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -522,7 +126,7 @@
           "id": "Majjma (2021)",
           "title": "Majjma (2021)",
           "poster": "https://m.media-amazon.com/images/M/MV5BNzA0YTdkMjctM2NlOS00ZDQzLWFiZDEtZWFlZTUwMWJlNjE4XkEyXkFqcGdeQXVyNTYzMzYwOTk@._V1_FMjpg_UY960_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00001/l88wr98hyj85_l/master.m3u8?t=ahTFEmEszARiDxLvEqVaE4y2RIB_Qf7mkm0VBpLqd9U&s=1780521070&e=21600&f=5665&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00001/l88wr98hyj85_l/master.m3u8?t=T0iWFXz5jNzFr1NIkcG9c7DHTR8PyfAaNkI8GxuF-1A&s=1780528760&e=21600&f=5665&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -531,7 +135,7 @@
           "id": "Flames (2019) Season 2 MX Player",
           "title": "Flames (2019) Season 2 MX Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BMGM5OTlmNjYtYmFlZi00MDY3LTk5YTctNTBlNjliZjEzY2E2XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_QL50_SY1000_SX800_AL_.jpg",
-          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00001/92dpucldq5e7_,l,o,.urlset/master.m3u8?t=f5noUwt41hXQDKs4ytWnnn5b37uSCJA0PIBSXkSm5jA&s=1780521071&e=21600&f=17201&i=0.0&sp=0",
+          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00001/92dpucldq5e7_,l,o,.urlset/master.m3u8?t=a58BzmHouJ_pURnDnGT6CBHJiebDBO2ZCII6YCkFBHw&s=1780528763&e=21600&f=17201&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -540,7 +144,7 @@
           "id": "Hello Mini (2019) Season 1 MX Player Original",
           "title": "Hello Mini (2019) Season 1 MX Player Original",
           "poster": "https://m.media-amazon.com/images/M/MV5BZjkwYzdkNzgtMjZjNi00YWE0LWExYTQtODFiYTdkMTBhMzg4XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_FMjpg_UX500_.jpg",
-          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00000/y7xwkfpzpiin_,l,o,.urlset/master.m3u8?t=Erj21bmoG32VsYJgoJj-y6_LkdueMsQT8D_TyIVXJq8&s=1780521078&e=21600&f=17199&i=0.0&sp=0",
+          "stream_url": "https://oldfils.ydc1wes.me/hls2/01/00000/y7xwkfpzpiin_,l,o,.urlset/master.m3u8?t=hFJUD_9qaVTnU95Ymh72GoWdT4aeFqqE_BK0DepzKMI&s=1780528774&e=21600&f=17199&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -549,7 +153,7 @@
           "id": "Aapkey Kamrey Mein Koi Rehta Hai (2021) Season 1 MX Originals",
           "title": "Aapkey Kamrey Mein Koi Rehta Hai (2021) Season 1 MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BNTE1MjUzNzctNzA4MC00MmJhLWIyMTItNzRmZGYxM2JkOGNmXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/lec3oa3inhzf_l/master.m3u8?t=mzkp51G_Xj5eM-cxH7zt_uUtEPhQGRfvtssa284G7kI&s=1780521078&e=21600&f=4909&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/lec3oa3inhzf_l/master.m3u8?t=C7I6Auqhd74j7lM8T87mFqhGaaRKBdZpUyRzZIpyO_A&s=1780528775&e=21600&f=4909&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -558,7 +162,7 @@
           "id": "Kuruthi Kalam (2021) Season 1 MX Originals",
           "title": "Kuruthi Kalam (2021) Season 1 MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BZmJjNzE0MzMtZjQ2Yi00OWM1LWFhMjgtNmEyNDJhMjA4YjQ0XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/w9uo02z6de70_l/master.m3u8?t=mK-9FBbKoupSoW3DVmuJUxEDx2Y11F5zNSsyaMrk8L4&s=1780521079&e=21600&f=10991&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/w9uo02z6de70_l/master.m3u8?t=rJ-WOnQn4J7QYbwhTINck3u8CxB-R4jS8-yamyS1mKM&s=1780528775&e=21600&f=10991&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -567,7 +171,7 @@
           "id": "The Aam Aadmi Family (2019) Season 3",
           "title": "The Aam Aadmi Family (2019) Season 3",
           "poster": "https://m.media-amazon.com/images/M/MV5BNjhmN2MwNDYtNjE1Yy00OTVhLWI0NWYtZWM0ZGRkNzNjZDVmXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_FMjpg_UY676_.jpg",
-          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00005/6cwcmc77e2o5_,l,h,.urlset/master.m3u8?t=MKW6g8cJnLjiSu6Dp9ptYwh7xuquEx6J5TDAEa9QlS4&s=1780521080&e=21600&f=28410&i=0.0&sp=0",
+          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00005/6cwcmc77e2o5_,l,h,.urlset/master.m3u8?t=3_SfUgcn6Ic8Y3thnjw4JuP1pXE0KyWxzI-nQl4hk58&s=1780528787&e=21600&f=28410&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -576,7 +180,7 @@
           "id": "Aani Kay Hava (2019) Season 1 Hindi MX Player",
           "title": "Aani Kay Hava (2019) Season 1 Hindi MX Player",
           "poster": "https://static.toiimg.com/photo/msid-70228316/Aani%20Kay%20Hava%20-%20An%20MX%20Original%20Series.jpg?70228316",
-          "stream_url": "https://jnaove.ydc1wes.me/hls2/02/00000/75pfvqmmu62i_,l,o,.urlset/master.m3u8?t=DmprcNSdtCL6Fti2nZHY1Ju8Its-6kJXdfdyfQ6n5cE&s=1780521082&e=21600&f=4581&i=0.0&sp=0",
+          "stream_url": "https://jnaove.ydc1wes.me/hls2/02/00000/75pfvqmmu62i_,l,o,.urlset/master.m3u8?t=YlSZaT8542VW_YHgRzSjcC2DGulVIZ1oXXrJDY2kzVE&s=1780528788&e=21600&f=4581&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -585,7 +189,7 @@
           "id": "Detective Anna (2016) Season 1 MX Player",
           "title": "Detective Anna (2016) Season 1 MX Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BZWNiNzUyNTMtMWQzZC00NjgxLTkwN2YtZmUyZjFjMmFlYzA4XkEyXkFqcGdeQXVyNjc4MTIzOTQ@._V1_FMjpg_UX600_.jpg",
-          "stream_url": "https://abella.ydc1wes.me/hls2/02/00000/pix0vn684xta_l/master.m3u8?t=Dp8ftevsDnV_SAtYLFAQ4f6gxkSegMDBp8WEX9t3swg&s=1780521089&e=21600&f=4255&i=0.0&sp=0",
+          "stream_url": "https://abella.ydc1wes.me/hls2/02/00000/pix0vn684xta_l/master.m3u8?t=pL7Q3mmtqvwf1vv26mYkS1h2nWHkjVt1AhplMsezcCw&s=1780528807&e=21600&f=4255&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -594,7 +198,7 @@
           "id": "The Missing Stone (2020) Season 1 MX Originals",
           "title": "The Missing Stone (2020) Season 1 MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BYjlhMzMzNTQtYTU2Ni00OGE4LWEwNmYtOTJiNzBkNjM2NmRhXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00000/d2d4hk62u3cl_l/master.m3u8?t=e5jnaBFiGSv79RXBuc38pLgKuxjaRvOJ7gV6Zt56kqQ&s=1780521090&e=21600&f=4050&i=0.0&sp=0",
+          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00000/d2d4hk62u3cl_l/master.m3u8?t=YIr757T9JNAxRJug4T1PKvdfjjQ2ysSvTLOlv8zH4oU&s=1780528808&e=21600&f=4050&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -603,16 +207,7 @@
           "id": "MX TakaTak Fame House (2020) Season 1 MX Originals",
           "title": "MX TakaTak Fame House (2020) Season 1 MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BOTVmYjJmZDgtYWEyYi00ZjY4LThmODUtMTBhMmU4ZTc0MDZhXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/dm8n2ixndpn6_l/master.m3u8?t=sx-_qe-qh1CGy8teOLq_3qQd1r1mzvBK4db-CgAlGzI&s=1780521090&e=21600&f=3997&i=0.0&sp=0",
-          "headers": {
-            "Referer": "https://speedostream1.com/"
-          }
-        },
-        {
-          "id": "Wishlist (2020) MX Originals",
-          "title": "Wishlist (2020) MX Originals",
-          "poster": "https://m.media-amazon.com/images/M/MV5BOTc3MDE2YWUtYmJkNi00ZTBkLTk1ZWItNDg3ZTAwYWVlNzI0XkEyXkFqcGdeQXVyOTg4MjY1MzU@._V1_FMjpg_UY683_.jpg",
-          "stream_url": "https://tvhow.ydc1wes.me/hls2/02/00006/lguushogvar4_,l,h,.urlset/master.m3u8?t=8d3bbIWtL0pPzWy2vTh66N7NtFQSc4qO154T0_Bnv8w&s=1780521091&e=21600&f=30840&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/dm8n2ixndpn6_l/master.m3u8?t=NvzZ0EAA-HeeGsMQNwF7CM2IsEoFfvYuF-pDAxsEcbA&s=1780528810&e=21600&f=3997&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -621,7 +216,7 @@
           "id": "Beehad Ka Baghi (2020) Season 1 MX Player",
           "title": "Beehad Ka Baghi (2020) Season 1 MX Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BNjYzMDhmMmItODNjMy00YmFiLTgxZDMtY2JiZGVlNmJlYjkwXkEyXkFqcGdeQXVyMjI3ODAyNzI@._V1_FMjpg_UX471_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/skzz2skk8f5g_l/master.m3u8?t=AYbFsb35cJm5xM5u0LMbhB9hf67sJUMluLflaHfVT9A&s=1780521094&e=21600&f=10996&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/skzz2skk8f5g_l/master.m3u8?t=Fasd61z0mg_ZTfo0MSV3hQKDKrOVAWkExSUJ2ah1zgI&s=1780528833&e=21600&f=10996&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -630,7 +225,7 @@
           "id": "Half Chaddi (2020) Season 1 MX Player",
           "title": "Half Chaddi (2020) Season 1 MX Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BMTBhM2U2MmItMWM2OS00ZjM4LThiYTAtNjk5MmViMzljOWUzXkEyXkFqcGdeQXVyMTIwNDk1NTU0._V1_FMjpg_UY576_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/vdnf9ugo5sb2_l/master.m3u8?t=hgpyo--g2LDzuMuSbwvruysGpThdhuRmsIvNrj5WJ4M&s=1780521099&e=21600&f=9161&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/vdnf9ugo5sb2_l/master.m3u8?t=nOEcjDkwgkQR89P8FUoyeAi7LoGtsiOuEvDST6gkTiU&s=1780528835&e=21600&f=9161&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -639,7 +234,7 @@
           "id": "Aashram (2020) Season 2 MX Player",
           "title": "Aashram (2020) Season 2 MX Player",
           "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hxisyDUjkjhEOfqsRtaEPbNo0NK.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00004/,navxjstu25yo_l,navxjstu25yo_h,lang/eng/navxjstu25yo_eng,.urlset/master.m3u8?t=K1NeIpO_rTHgb1l-JYvaSXxMET_bbXZaWavu8O9X2y0&s=1780521104&e=21600&f=24035&i=0.0&sp=0",
+          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00004/,navxjstu25yo_l,navxjstu25yo_h,lang/eng/navxjstu25yo_eng,.urlset/master.m3u8?t=qb8trRBqVGcrueNqiwKW5nbwugnPoCwRbszQdDfMvDE&s=1780528843&e=21600&f=24035&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -648,7 +243,7 @@
           "id": "Lockdown Rishtey (2020) Season 1 MX Originals",
           "title": "Lockdown Rishtey (2020) Season 1 MX Originals",
           "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zuSagq5euPvHhaUn9aw0jKD4PTr.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/ueel5pvojq2s_l/master.m3u8?t=_Ar9iS8MPnc6gBBeLy_wrrKWZqWrTZGfAXGWbFsBGzo&s=1780521111&e=21600&f=2819&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/ueel5pvojq2s_l/master.m3u8?t=MFac1z9YhxOUwwe-SweJuQf2itojp8m-TlAwU7s3lPU&s=1780528854&e=21600&f=2819&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -657,7 +252,7 @@
           "id": "Aashram (2020) Season 1 MX Player",
           "title": "Aashram (2020) Season 1 MX Player",
           "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5tK4hBaHXqEcz1iHRr0nCgaABPk.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00004/,lem3eqsuw0q1_l,lem3eqsuw0q1_h,lang/eng/lem3eqsuw0q1_eng,.urlset/master.m3u8?t=XV99PegV0ViR1ZTVMcdQwl2vE1tJx_2Y4q4HPWgueZY&s=1780521123&e=21600&f=24039&i=0.0&sp=0",
+          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00004/,lem3eqsuw0q1_l,lem3eqsuw0q1_h,lang/eng/lem3eqsuw0q1_eng,.urlset/master.m3u8?t=15sNYFqvz4iXWOmAp93FgBIAoOmjpguzMmR7A7X35LU&s=1780528855&e=21600&f=24039&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -666,7 +261,7 @@
           "id": "Masum (2020) Season 1 Mx Player",
           "title": "Masum (2020) Season 1 Mx Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BNzNkNTYyYTEtYTg0Yi00MGVmLTk5NGEtZjcxNDM0MDg5YzM5L2ltYWdlXkEyXkFqcGdeQXVyNDcyMDY4NzE@._V1_QL50_SY1000_CR0,0,700,1000_AL_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/bf0xms1p5hd0_l/master.m3u8?t=maGyPXp3PB8Yqn6kWskhdZvvj-mzJnV7ekWQETv0ISg&s=1780521134&e=21600&f=9058&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/bf0xms1p5hd0_l/master.m3u8?t=4Dn86_wtVKFSj1JYRmb51C9pFYcMed8toncUn9PTWeU&s=1780528862&e=21600&f=9058&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -675,7 +270,7 @@
           "id": "South Of Hell [Narak Lok] (2020) Season 1 Hindi Dubbed",
           "title": "South Of Hell [Narak Lok] (2020) Season 1 Hindi Dubbed",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjAwODM3NDA5OF5BMl5BanBnXkFtZTgwMjAwMjAxNzE@._V1_QL50_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/rxccxe7m6fcl_l/master.m3u8?t=TNXb0gC00UTt2lXz_6lJBbs2RCl8HDZw59jkF-DKBEA&s=1780521162&e=21600&f=2478&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/rxccxe7m6fcl_l/master.m3u8?t=kUGIA0n9isOZUhpLaAchgZYuu1KBalqjGjityDZKp64&s=1780528877&e=21600&f=2478&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -684,7 +279,7 @@
           "id": "Once a Year (2020) Season 1 MX Player",
           "title": "Once a Year (2020) Season 1 MX Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BNWY5Y2RkYjAtMmM0Ny00YThhLThlMTktODE1MTE0ZjIzOTI2XkEyXkFqcGdeQXVyMTA0MjE2MDIz._V1_QL50_SY1000_CR0,0,490,1000_AL_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/twhn598iee4f_l/master.m3u8?t=Vn87TwCQo6A2ZfeR5BzKQ5glyjsF2uXKUzZNZafeu9o&s=1780521164&e=21600&f=2482&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/twhn598iee4f_l/master.m3u8?t=IrqnFDduAlm39Hu2XnmwCrz0zxDxiwWJX5B_qkzAemA&s=1780528879&e=21600&f=2482&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -693,7 +288,7 @@
           "id": "F*ck Buddies (2020) MX Player Originals",
           "title": "F*ck Buddies (2020) MX Player Originals",
           "poster": "https://images.justwatch.com/poster/154337639/s592/f-buddies",
-          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00000/00nczra3tea0_,l,o,.urlset/master.m3u8?t=0-HUpkY5zeqDNIlsGHh9RbPRnFgD6jY9RG9J6xOcy3c&s=1780521175&e=21600&f=2513&i=0.0&sp=0",
+          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00000/00nczra3tea0_,l,o,.urlset/master.m3u8?t=vZKVaQgvx5kKCUhMwjuXWn-S1lNbP7JeLASRy3efZ18&s=1780528897&e=21600&f=2513&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -702,7 +297,7 @@
           "id": "Flames (2018) Season 1 MX Player",
           "title": "Flames (2018) Season 1 MX Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BMmVmZGE5ZjAtOGJlOS00NGU3LWIxOWYtNTMxODNkY2I3NGVhXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_QL50_SY1000_SX1000_AL_.jpg",
-          "stream_url": "https://dawn.ydc1wes.me/hls2/02/00000/gglyun6i1t2u_,l,o,.urlset/master.m3u8?t=nJv7RTYOyJLkEZ1DCDr5fLHw0QfgrGkxnVto-ZUvjQg&s=1780521205&e=21600&f=17200&i=0.0&sp=0",
+          "stream_url": "https://dawn.ydc1wes.me/hls2/02/00000/gglyun6i1t2u_,l,o,.urlset/master.m3u8?t=6eVMhXwdBHWTpmVPQG7hxc7-mYWpwJRTdP_Rphr1UlQ&s=1780528911&e=21600&f=17200&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -711,7 +306,7 @@
           "id": "Raktanchal (2020) Season 1 MX Player Originals",
           "title": "Raktanchal (2020) Season 1 MX Player Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BZjg3MzFlYzUtMDAwOC00MTk2LTk1NmYtOTVhZDM5YzMzNjZkXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UY766_.jpg",
-          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00006/5skkcb3buqk9_,l,h,.urlset/master.m3u8?t=GgaYLGhH9ajZRRWhPUsTcdkXUJ1hHsz6sFSYigdxPZw&s=1780521209&e=21600&f=34060&i=0.0&sp=0",
+          "stream_url": "https://ritchie.ydc1wes.me/hls2/01/00006/5skkcb3buqk9_,l,h,.urlset/master.m3u8?t=XiseNt59pal5wJAKhOwrgmE5LdNAAZnXAYWvrY-VcPE&s=1780528912&e=21600&f=34060&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -720,7 +315,7 @@
           "id": "Day Dreamer (Erkenci Kus) Season 1 Hindi Dubbed",
           "title": "Day Dreamer (Erkenci Kus) Season 1 Hindi Dubbed",
           "poster": "https://m.media-amazon.com/images/M/MV5BYmY5ZThmYzItZWQ2Ny00NTcyLTk2YzktOTM3ZGIzYWNhYTc0XkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_QL50_.jpg",
-          "stream_url": "https://abella.ydc1wes.me/hls2/01/00000/h9lh97mrv0cc_l/master.m3u8?t=jAef5J6TtsF9jQcq8cfgdIsk6KoQKuhTzQ20aO61a88&s=1780521216&e=21600&f=2611&i=0.0&sp=0",
+          "stream_url": "https://abella.ydc1wes.me/hls2/01/00000/h9lh97mrv0cc_l/master.m3u8?t=DdwXhqjrOWZrl9YrWDv4iA8QwfQ6KCHppNsSqPICgjQ&s=1780528915&e=21600&f=2611&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -729,7 +324,7 @@
           "id": "Raah De Maa (2020) Season 1 MX Player Originals",
           "title": "Raah De Maa (2020) Season 1 MX Player Originals",
           "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gxlMHWesXgSRvkpfhfeT1Et5t1P.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/vmgeuldpxz39_l/master.m3u8?t=dKkfwsUZLi_rBhiTywSZZURlG3cs-IOyt-eRJKATBk4&s=1780521216&e=21600&f=10995&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/vmgeuldpxz39_l/master.m3u8?t=r9jZENPF99DGc3GRG7FYZhbIkTwXXhR_O18SLC7Thms&s=1780528925&e=21600&f=10995&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -738,7 +333,7 @@
           "id": "Humorously Yours (2019) Season 2 Mx Player",
           "title": "Humorously Yours (2019) Season 2 Mx Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BMjg4ZDNiZGYtY2I4Ny00MDdlLWI2YmItYzk5OWJiMzg3OThkXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL50_SY1000_SX1000_AL_.jpg",
-          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00000/9i71j6te6pr6_,l,o,.urlset/master.m3u8?t=drv_KzV-kw89TPHeiwZyiwUKxA6h_YbHoGPxqPCFOg0&s=1780521225&e=21600&f=2683&i=0.0&sp=0",
+          "stream_url": "https://jagur.ydc1wes.me/hls2/01/00000/9i71j6te6pr6_,l,o,.urlset/master.m3u8?t=pv4H_xWiyO7qn8dmpC4S4nXf21nHF6x1Dfd2bzEva6Y&s=1780528927&e=21600&f=2683&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -747,7 +342,7 @@
           "id": "Heartbreak Hotel (2019) Season 1 Complete",
           "title": "Heartbreak Hotel (2019) Season 1 Complete",
           "poster": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dLIqjAnvG9K8ciA2q6iJ4WylomZ.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/xeenjhqlypam_l/master.m3u8?t=ZBr7mZDTjxI0TS4zqUYDfgefWIaOWOYZ0EO-dBFEAAg&s=1780521231&e=21600&f=2692&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/02/00000/xeenjhqlypam_l/master.m3u8?t=Si1zlmDC2wzbn81cIcz0uRQbJyWQMTL2wUf9N5oCYEA&s=1780528932&e=21600&f=2692&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -756,7 +351,7 @@
           "id": "Mannphodganj Ki Binny (2020) Season 1 MX Originals",
           "title": "Mannphodganj Ki Binny (2020) Season 1 MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BYTA4NDViOWItZmE1MC00ZGZiLThjOGQtZTc1NWQzNTljNGQ1XkEyXkFqcGdeQXVyMTA4NTc3NTQx._V1_FMjpg_UY886_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/ny450gwarzee_l/master.m3u8?t=zbTfiPcuZkB24X_3-KWQgdCVxfRh4K5smliiFyPbj4A&s=1780521234&e=21600&f=8697&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/ny450gwarzee_l/master.m3u8?t=uNP6ZzZSWlq9M6D23Xkf3N8YIPq_mGga3wZGMbZoiPw&s=1780528938&e=21600&f=8697&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -765,7 +360,7 @@
           "id": "Samantar (2020) Season 1 Hindi MX Player",
           "title": "Samantar (2020) Season 1 Hindi MX Player",
           "poster": "https://m.media-amazon.com/images/M/MV5BMDdiMjVmZjMtNmUwYi00ODJkLWEyNzgtOWM5NTA3MDA4M2NjXkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_QL50_SY1000_CR0,0,626,1000_AL_.jpg",
-          "stream_url": "https://jnaove.ydc1wes.me/hls2/02/00004/0x6p4b1gznwl_,l,h,.urlset/master.m3u8?t=7grcSZfBTcgiiNRNa4KMjHdJwskegzr1HpHKeYzUTnM&s=1780521244&e=21600&f=22088&i=0.0&sp=0",
+          "stream_url": "https://jnaove.ydc1wes.me/hls2/02/00004/0x6p4b1gznwl_,l,h,.urlset/master.m3u8?t=lf4HNR-ARyrMc_sF3oMBbnOecP-nkNoH7wP02fjagOo&s=1780528940&e=21600&f=22088&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -774,7 +369,7 @@
           "id": "Naked (2020) Season 1 Mx Player Originals",
           "title": "Naked (2020) Season 1 Mx Player Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BZDc4ZDNhNTEtZTFkNS00MjY3LWE2OGEtYTVlZmMzZDE1ZWJjXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_FMjpg_UY693_.jpg",
-          "stream_url": "https://cubbi.ydc1wes.me/hls2/03/00001/0gp7tn3q8tfk_,l,o,.urlset/master.m3u8?t=rgkIpnnUETtbjAeqVxurbIS5V36uoRVWHwm79zBfq2E&s=1780521245&e=21600&f=5642&i=0.0&sp=0",
+          "stream_url": "https://cubbi.ydc1wes.me/hls2/03/00001/0gp7tn3q8tfk_,l,o,.urlset/master.m3u8?t=LwblulOlX2fKJ3sGnPYZU4-8-Xs71uchJubjIR4upwM&s=1780528942&e=21600&f=5642&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -783,7 +378,7 @@
           "id": "Padded Ki Pushup (2019) Season 1 Hungama Originals",
           "title": "Padded Ki Pushup (2019) Season 1 Hungama Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BYjZlMDgwZGYtMDdmNC00ZDA5LWIzOWYtMzZhYmUyOTIzNWYzXkEyXkFqcGdeQXVyODg5NzA2MzA@._V1_FMjpg_UY933_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/43tw4y663n2n_l/master.m3u8?t=t-EbpB3ZPpoDPmNhIf6cGTsZb-LniQoArjpFnLTEs1I&s=1780521257&e=21600&f=8605&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/43tw4y663n2n_l/master.m3u8?t=FT9aMSM4Up9jpsvA2apDfVLAszxs7LIowwU179UK1FA&s=1780528945&e=21600&f=8605&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -792,7 +387,7 @@
           "id": "Shaadi Fit (2019) Season 1 MX Originals",
           "title": "Shaadi Fit (2019) Season 1 MX Originals",
           "poster": "https://m.media-amazon.com/images/M/MV5BZjgwYzNjNTItMmVlZC00OGZjLTgyZjAtYzNjYjUyMGIwZjgyXkEyXkFqcGdeQXVyMTE5NTI1NDk5._V1_FMjpg_UX800_.jpg",
-          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/l5la3qglp8an_l/master.m3u8?t=rSnnz97ZKOdkWFVFv707O24a3Hxbb-FVQ4aQU0RACSg&s=1780521258&e=21600&f=8604&i=0.0&sp=0",
+          "stream_url": "https://park.ydc1wes.me/hls2/01/00001/l5la3qglp8an_l/master.m3u8?t=hgmAh2B6wB-j1wC8-BK2Cb8FSdR1uuAmoDovmdjUVVA&s=1780528946&e=21600&f=8604&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -801,7 +396,7 @@
           "id": "Thinkistan (2019) Season 2 Complete",
           "title": "Thinkistan (2019) Season 2 Complete",
           "poster": "https://m.media-amazon.com/images/M/MV5BZjEzZmY2M2QtMzRhYS00ZDE3LThkZmUtNDE0ZDU5NGY1NzkxXkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL50_SY1000_CR0,0,707,1000_AL_.jpg",
-          "stream_url": "https://arabic.ydc1wes.me/hls2/02/00000/ojzpqsg1fbjv_n/master.m3u8?t=uHfP81s1NtKctOd3mS2TmDOC335yhQc_BSE2NteqeRo&s=1780521258&e=21600&f=184&i=0.0&sp=0",
+          "stream_url": "https://arabic.ydc1wes.me/hls2/02/00000/ojzpqsg1fbjv_n/master.m3u8?t=KoHEkuwIjTMG2Du0ZOqbOpQVfjKWHsF0CQAGPbx4oWs&s=1780528953&e=21600&f=184&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
@@ -810,7 +405,7 @@
           "id": "Immature Web Series MX Player Originals Hindi Season 1 Complete",
           "title": "Immature Web Series MX Player Originals Hindi Season 1 Complete",
           "poster": "https://m.media-amazon.com/images/M/MV5BNzY5YWQ1YzMtMTBhNS00YWE2LWI3YTktNzI4MWE5M2FlYTJkXkEyXkFqcGdeQXVyNzEyNTM4MTU@._V1_FMjpg_UY865_.jpg",
-          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00001/ndwlrjyltgnj_,l,o,.urlset/master.m3u8?t=gSVLv-pwR5t7C_QymvQ152Ju9f1ytENenZ6PaLP6BzU&s=1780521276&e=21600&f=5980&i=0.0&sp=0",
+          "stream_url": "https://aamir.ydc1wes.me/hls2/01/00001/ndwlrjyltgnj_,l,o,.urlset/master.m3u8?t=-ffe9sXQbekWbVYi6RLBEQUuFeMFLuHM9DsVONuf5nU&s=1780528970&e=21600&f=5980&i=0.0&sp=0",
           "headers": {
             "Referer": "https://speedostream1.com/"
           }
